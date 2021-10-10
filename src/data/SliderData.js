@@ -1,7 +1,7 @@
 import ImageOne from "../img/royal.jpg";
 import ImageTwo from "../img/hitech.jpg";
 import ImageThree from "../img/humson.jpg";
-import ImageFour from "../img/emir.jpg";
+import ImageFour from "../img/tom.jpg";
 // import ImageFive from "../img/jovoh.jpg";
 // import ImageSix from "../img/8000.jpg";
 // import ImageSeven from "../img/frst.jpg";
